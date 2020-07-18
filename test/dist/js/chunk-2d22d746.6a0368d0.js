@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22d746"],{f820:function(e,t,n){"use strict";n.r(t);var u=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("p",[e._v(" This is the About Page v1.0.0. It is part of the Vue Crach Course on Youtube. ")])])}],s=n("2877"),c={},o=Object(s["a"])(c,u,r,!1,null,null,null);t["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d22d746.6a0368d0.js.map
